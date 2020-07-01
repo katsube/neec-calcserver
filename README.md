@@ -24,9 +24,9 @@ Webブラウザなどで`http://localhost:3000/add?a=10&b=20`といった形で�
 以下のようなJSON形式のデータが返却されれば成功です。
 ```json
 {
-  status: true,
-  formula: "10+20",
-  result: 30
+  "status": true,
+  "formula": "10+20",
+  "result": 30
 }
 ```
 
