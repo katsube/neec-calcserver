@@ -1,0 +1,26 @@
+{
+  "name": "calcserve",
+  "version": "1.0.0",
+  "description": "Calculator server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator",
+    "addition"
+  ],
+  "author": "M.Katsube",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katsube/neec-calcserver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/katsube/neec-calcserver/issues"
+  },
+  "homepage": "https://github.com/katsube/neec-calcserver#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
